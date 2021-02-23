@@ -12,6 +12,8 @@ Atualmente, me considero um desenvolvedor front-end, pois é minha área com mai
  <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML, Javascript/React e Wordpress
  <br/> :computer: &nbsp; Minha stack: PHP(Wordpress), ReactJS & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias desde sempre, sou um gamer nato 😎🎮 e adoro assistir séries em geral!
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-borges-52222a1b8/)](https://www.linkedin.com/in/gabriel-borges-52222a1b8/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GabrielBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-borges-52222a1b8/)](https://www.linkedin.com/in/gabriel-borges-52222a1b8/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gbdesigns13@gmail.com)](mailto:gbdesigns13@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gbdesigns13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gbdesigns13@gmail.com)](mailto:gbdesigns13@gmail.com) 
+| 
+[![Behance Badge](https://img.shields.io/badge/-GBDesigns-c14438?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/gbdesigns1)](https://www.behance.net/gbdesigns1)
