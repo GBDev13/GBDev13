@@ -16,4 +16,4 @@ Atualmente, me considero um desenvolvedor front-end, pois é minha área com mai
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gbdesigns13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gbdesigns13@gmail.com)](mailto:gbdesigns13@gmail.com) 
 | 
-[![Behance Badge](https://img.shields.io/badge/-GBDesigns-c14438?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/gbdesigns1)](https://www.behance.net/gbdesigns1)
+[![Behance Badge](https://img.shields.io/badge/-GBDesigns-1769ff?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/gbdesigns1)](https://www.behance.net/gbdesigns1)
