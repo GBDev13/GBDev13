@@ -9,7 +9,7 @@ Atualmente, me considero um desenvolvedor front-end, pois é minha área com mai
  <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML, Javascript/React e Wordpress
  <br/> :computer: &nbsp; Minha stack: PHP(Wordpress), ReactJS & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias desde sempre, sou um gamer nato 😎🎮 e adoro assistir séries em geral!
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GabrielBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkin.com/in/GBDesigns13/)](https://www.linkin.com/in/GBDesigns13/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GabrielBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gbdesigns13/)](https://www.linkedin.com/in/gbdesigns13/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gbdesigns13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gbdesigns13@gmail.com)](mailto:gbdesigns13@gmail.com) 
 | 
