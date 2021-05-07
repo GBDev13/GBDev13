@@ -3,8 +3,8 @@
 # Gabriel Borges
 
 ## Opa pessoal 👋
-Sou designer a mais de 5 anos, apaixonado pelo ramo da programação, atualmente estudando cada vez mais! (Sem abandonar o design)
-Atualmente, me considero um desenvolvedor front-end, pois é minha área com maior conhecimento :computer:
+Sou designer a mais de 5 anos, apaixonado pelo ramo da programação, atualmente estudando cada vez mais!
+Atualmente, me considero um desenvolvedor front-end pois é minha área com maior conhecimento :computer:
 
  :rocket:  &nbsp; Estou trabalhando como designer na **BagServiços** (Freelancer)
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
