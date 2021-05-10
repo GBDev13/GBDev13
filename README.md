@@ -6,7 +6,7 @@
 Sou designer a mais de 5 anos, apaixonado pelo ramo da programação, atualmente estudando cada vez mais!
 Atualmente, me considero um desenvolvedor front-end pois é minha área com maior conhecimento :computer:
 
- :rocket:  &nbsp; Estou trabalhando como designer na **BagServiços** (Freelancer)
+ :rocket:  &nbsp; Estou trabalhando como desenvolvedor front-end no **Cidade Alta**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
  <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML, React, Next.js e Wordpress básico
  <br/> :computer: &nbsp; Minha stack: ReactJS, Next,js e Typescript
