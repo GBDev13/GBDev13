@@ -3,7 +3,7 @@
 # Gabriel Borges
 
 ## Opa pessoal 👋
-Sou desenvolvedor full-stack júnior :computer:. Super apaixonado pelo ramo da programação, atualmente estudando cada vez mais!
+Sou desenvolvedor full-stack :computer:. Super apaixonado pelo ramo da programação, atualmente estudando cada vez mais!
 
  :rocket:  &nbsp; Estou trabalhando como desenvolvedor front-end no **Cidade Alta**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em React/Next/Node
