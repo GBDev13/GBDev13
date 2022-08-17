@@ -2,16 +2,14 @@
 
 # Gabriel Borges
 
-## Opa pessoal 👋
-Sou desenvolvedor full-stack :computer:. Super apaixonado pelo ramo da programação, atualmente estudando cada vez mais!
+## Hello guys 👋
+I am a full-stack developer :computer:. Super passionate about the programming, currently studying more and more!
 
- :rocket:  &nbsp; Estou trabalhando como desenvolvedor front-end no **Cidade Alta**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em React/Next/Node
- <br/> :blush: &nbsp; Posso te ajudar com CSS, Styled components, HTML, React, Next.js, Node.js e React Native
- <br/> :computer: &nbsp; Minha stack: ReactJS, React Native, Next.js, Node.js e Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias desde sempre, sou um gamer nato 😎🎮 e adoro assistir séries em geral!
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GabrielBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gbdesigns13/)](https://www.linkedin.com/in/gbdesigns13/) 
+ :rocket:  &nbsp; I am working as a front-end developer at **Cidade Alta**
+ <br/> :purple_heart: &nbsp; Looking to collaborate on projects in React/Next/Node
+ <br/> :blush: &nbsp; I can help you with CSS, Stylized Components, HTML, React, Next.js, Node.js, and Native React
+ <br/> :computer: &nbsp; My stack: ReactJS, React Native, Next.js, Node.js and Typescript
+ <br/> 💬  &nbsp; About me: I've been into technology since forever, I'm a born gamer 😎🎮 and I love watching series in general!
+ <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GabrielBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gbdesigns13/)](https://www.linkedin.com/in/gbdesigns13/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-gbdesigns13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gbdesigns13@gmail.com)](mailto:gbdesigns13@gmail.com) 
-| 
-[![Behance Badge](https://img.shields.io/badge/-GBDesigns-1769ff?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/gbdesigns1)](https://www.behance.net/gbdesigns1)
+[![Gmail Badge](https://img.shields.io/badge/-contato@gbdev.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@gbdev.me)](mailto:contato@gbdev.me)
