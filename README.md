@@ -12,7 +12,6 @@ I'm a Full Stack Developer with extensive experience and a deep passion for buil
 💼 **Open to Collaborate On**: Projects using React, Next.js, Node.js, and beyond. I’m especially interested in innovative ideas in the web and mobile spaces.
 
 🛠️ **Tech Stack**:
-
 - **Frontend**: React, Next.js, React Native, Tailwind, Styled Components, HTML, CSS.
 - **Backend**: Node.js, NestJS, TypeScript.
 
